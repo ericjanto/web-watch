@@ -1,0 +1,82 @@
+<main id="maincontent" role="main">
+<div class="section light post">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 post-header">
+<div class="post-intro">
+<p class="large">Our 17 practice rooms, all equipped with a piano, are ideal for Music students who need a private place for practice.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section pattern-bg post no-padding-bottom"><!-- no padding-bottom class removes the padding-bottom from the post section -->
+<div class="container">
+<div class="row">
+<div class="col-lg-12 post-body">
+<p>As well as these rooms, students have access, with permission, to play the 21-stop 2-manual German organ in the Reid Concert Hall, and an experimental organ and 2-manual pipe organ both situated in Alison House. Harpsichords are also available.</p>
+<p>In addition, limited special practice facilities are available to students who are percussionists, part of small ensembles, bagpipe players or players of amplified instruments.</p>
+<h3>Music Practice Room Passes</h3>
+<p><span><span><span><span>We are currently organising the 2022-2023 Music Practice Room Passes. Please regularly check this page for updates.</span></span></span></span></p>
+<h3>Contact</h3>
+<p>For enquiries, please contact <a href="mailto:eca.estates.support@ed.ac.uk">eca.estates.support@ed.ac.uk</a>.</p>
+</div>
+<div class="post-footer col-lg-12">
+<ul class="share">
+<li><span>Share</span></li>
+<li>
+<a href="http://www.facebook.com/sharer/sharer.php?u=https://www.eca.ed.ac.uk/facility/music-practice-rooms-and-instruments">
+<span class="fa fa-facebook"></span>
+</a>
+</li>
+<li>
+<a href="http://twitter.com/share?text=Music practice rooms and instruments&amp;url=https://www.eca.ed.ac.uk/facility/music-practice-rooms-and-instruments">
+<span class="fa fa-twitter"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<hr class="section-border"/>
+<div class="section dark">
+<div class="container">
+<div class="row">
+<!-- Widget intro -->
+<div class="col-lg-12">
+<div class="widget widget-intro">
+<div class="w-header">
+<h2 class="heading-style-h3-sm">Related areas of study</h2>
+</div>
+</div>
+</div>
+<!-- End Widget intro -->
+</div>
+<div class="row flex flex-h-center">
+</div>
+</div>
+</div>
+<hr class="section-border"/>
+<div class="section light">
+<div class="container">
+<div class="row">
+<!-- Widget intro -->
+<div class="col-lg-12">
+<div class="widget widget-intro">
+<div class="w-header">
+<h2>Related links</h2>
+</div>
+<div class="w-body">
+<p>
+<a href="/facility/reid-concert-hall">Reid Concert Hall</a>
+</p>
+</div>
+</div>
+</div>
+<!-- End Widget intro -->
+</div>
+</div>
+</div>
+<hr class="section-border"/>
+</main>
