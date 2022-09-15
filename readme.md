@@ -1,6 +1,6 @@
 # A hacky solution to watching website changes
 
-I'm using this project to get notified
+I'm using this project to get notified when practice pass rooms are available, as published on [this website](https://www.eca.ed.ac.uk/facility/music-practice-rooms-and-instruments).
 
 ## How does it work?
 
