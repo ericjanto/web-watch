@@ -7,7 +7,7 @@ I'm using this project to get notified when practice room passes are available, 
 The main script `web_watcher.py` pulls targeted content from the website lying at the desired URL.
 It compares it with a local cache file, and notifies the user if there are any changes.
 
-On Linux-based systems, you can schedule regular script execution using crontab.
+On Linux-based systems, you can schedule periodic script execution using crontab.
 
 ## Caveats
 
